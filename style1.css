@@ -1,0 +1,76 @@
+.toggle-button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-background-insets: 0,1,1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.toggle-button:hover {
+ -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+ -fx-text-fill: pink;
+ }
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(#61a2b1, #2A5058);
+    -fx-background-insets: 0,1,1;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.button:hover {
+ -fx-background-color: linear-gradient(#2A5058, #61a2b1);
+ -fx-text-fill: pink;
+ }
+.label{
+    -fx-text-fill: #ffffff;
+}
+#bkg{
+    -fx-background-image: url("cl.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg2{
+    -fx-background-image: url("cl4.gif");
+    -fx-font-family: "Ar Julian";
+}
+
+#bkg3{
+    -fx-background-image: url("cl4.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg4{
+    -fx-background-image: url("cl4.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg5{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg6{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg7{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg8{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg9{
+    -fx-background-image: url("d1.jpg");
+    -fx-font-family: "Ar Julian";
+}
+#bkg10{
+    -fx-background-image: url("cl3.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg11{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
+#bkg12{
+    -fx-background-image: url("cl2.gif");
+    -fx-font-family: "Ar Julian";
+}
