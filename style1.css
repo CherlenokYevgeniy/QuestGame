@@ -29,32 +29,11 @@
     -fx-background-image: url("cl.gif");
     -fx-font-family: "Ar Julian";
 }
-#bkg2{
+#bkg2, #bkg3, #bkg4{
     -fx-background-image: url("cl4.gif");
     -fx-font-family: "Ar Julian";
 }
-
-#bkg3{
-    -fx-background-image: url("cl4.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg4{
-    -fx-background-image: url("cl4.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg5{
-    -fx-background-image: url("cl2.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg6{
-    -fx-background-image: url("cl2.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg7{
-    -fx-background-image: url("cl2.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg8{
+#bkg5, #bkg6, #bkg7, #bkg8, #bkg11, #bkg12{
     -fx-background-image: url("cl2.gif");
     -fx-font-family: "Ar Julian";
 }
@@ -64,13 +43,5 @@
 }
 #bkg10{
     -fx-background-image: url("cl3.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg11{
-    -fx-background-image: url("cl2.gif");
-    -fx-font-family: "Ar Julian";
-}
-#bkg12{
-    -fx-background-image: url("cl2.gif");
     -fx-font-family: "Ar Julian";
 }
